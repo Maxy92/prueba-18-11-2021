@@ -73,6 +73,6 @@ if [[ $tests_passed -eq 20 ]]
 then
   echo -e "Todos los tests pasaron ${GREEN}✔️${NC}"
 else
-  echo "Resultado: $tests_passed/5 tests OK."
+  echo "Resultado: $tests_passed/20 tests OK."
 fi
 exit 0

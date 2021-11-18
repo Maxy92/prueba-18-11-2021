@@ -3,6 +3,7 @@
 #include "libprueba.h"
 
 int main(int argc, char *argv[]) {
+  printf("ep exeuyi ");
   // el primer argumento es la clave para cifrar
   // la cantidad de letras a desplazar (un entero)
   int key = atoi(argv[1]);

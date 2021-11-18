@@ -2,10 +2,10 @@
 void saludar(char *name);
 
 // devuelve la enesima potencia de dos
-int potencia_de_dos(int n);
+int potencia_de_dos(int n,int a, int b, int c, int d);
 
 // imprime un array de enteros de dimension size
-void print_array(int a[], int size);
+void print_array(int r[], int dimension);
 
 // pone el resultado de u + v en result
 // todos vectores de dimension n
